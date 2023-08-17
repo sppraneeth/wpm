@@ -1,0 +1,22 @@
+.active{
+    color:black;
+}
+.correct{
+    color:green;
+
+}
+.incorrect{
+    color:red;
+}
+.header{
+    margin:150px;
+    background-color: wheat;
+    font-style:oblique;
+    font-size: 18px;
+    padding-left:17px;
+    padding-bottom:18px;
+    padding-top:16px;
+}
+.head{
+    font-style: normal;
+}
